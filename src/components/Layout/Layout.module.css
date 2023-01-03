@@ -1,0 +1,10 @@
+.layout {
+    display: flex;
+    padding: 20px;
+}
+
+.place {
+    width: 80%;
+    background-color: #e6e7e8;
+    border: 2px solid grey;
+}
